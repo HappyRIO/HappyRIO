@@ -59,4 +59,4 @@
 <br clear="both">
 
 
-![dynamics image](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/contributions.svg)
+![dynamics image](https://github.com/HappyRIO/HappyRIO/blob/main/images/snake.svg)
