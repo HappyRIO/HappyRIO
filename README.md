@@ -59,5 +59,4 @@
 <br clear="both">
 
 
-
-###
+![dynamics image](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/contributions.svg)
