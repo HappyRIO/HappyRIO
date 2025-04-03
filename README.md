@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RIO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RIO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HappyRIO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HappyRIO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ###
@@ -71,8 +71,8 @@
 <details open>
 <summary>GitHub Contribution Chart</summary>
 <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=topdev0215&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanguard1105&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=HappyRIO&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HappyRIO&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 </details>
