@@ -69,7 +69,9 @@
 <details open>
 <summary>GitHub Contribution Chart</summary>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HappyRIO&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=topdev0215&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanguard1105&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
 </p>
 </details>
 
