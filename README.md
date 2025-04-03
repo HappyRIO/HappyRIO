@@ -78,7 +78,7 @@
 
 <div align="center">
 <a href="#">
-    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
+    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HappyRIO&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"/>
 </a>
 <br>
 <p>
